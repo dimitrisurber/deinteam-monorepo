@@ -1,0 +1,41 @@
+{
+  "brand": {
+    "id": "dth",
+    "name": "Dein Team Herzzentrum",
+    "shortName": "Dein Team",
+    "tagline": "Schweizer Kardiologie, redaktionell präzise.",
+    "logo": {
+      "primary": "/brand/dth/logo-primary.svg",
+      "secondary": "/brand/dth/logo-secondary.svg",
+      "monogram": "/brand/dth/monogram.svg",
+      "alt": "Dein Team Herzzentrum"
+    }
+  },
+  "colors": {
+    "primary": "#0D2240",
+    "primaryHover": "#1B3A65",
+    "primaryContrast": "#FFFFFF",
+    "secondary": "#C9A961",
+    "secondaryHover": "#B89346",
+    "secondaryContrast": "#0D2240",
+    "background": "#FBF6F0",
+    "surface": "#FFFFFF",
+    "surfaceMuted": "#F4ECDF",
+    "text": "#1A1A1A",
+    "textMuted": "#6B6B6B",
+    "border": "#E8DEC9",
+    "error": "#B91C1C",
+    "success": "#15803D"
+  },
+  "fonts": {
+    "heading": "'Lora', Georgia, 'Times New Roman', serif",
+    "body": "'Avenir Next', Avenir, system-ui, -apple-system, sans-serif",
+    "mono": "'JetBrains Mono', ui-monospace, monospace"
+  },
+  "fontWeights": {
+    "regular": 400,
+    "medium": 500,
+    "semibold": 600,
+    "bold": 700
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@deinteam/brand-tokens",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./dth": "./src/dth.json",
+    "./dtl": "./src/dtl.json",
+    "./shared": "./src/shared.json",
+    "./assets/*": "./src/assets/*"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
