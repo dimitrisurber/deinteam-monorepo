@@ -35,4 +35,7 @@ export type { RiskCalculatorProps } from './RiskCalculator/RiskCalculator';
 export { CTABox } from './CTABox/CTABox';
 export type { CTABoxProps, CTABoxVariant } from './CTABox/CTABox';
 
+export { FAQAccordion } from './FAQAccordion/FAQAccordion';
+export type { FAQAccordionProps, FAQAccordionVariant } from './FAQAccordion/FAQAccordion';
+
 export type { CTA, Image, TrustIndicator, ContentRef } from './types';
